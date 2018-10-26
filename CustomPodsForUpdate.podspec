@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CustomPodsForUpdate'
-  s.version          = '0.1.6'
+  s.version          = '0.1.7'
   s.summary          = 'Just a public pod lib test.'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ A short description and summary of CustomPodsForUpdate.
   s.swift_version = '4.2'
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'CustomPodsForUpdate/Classes/*.swift', 'CustomPodsForUpdate/*.swift', 'CustomPodsForUpdate/**/*.swift'#, 'CustomPodsForUpdate/**'
+  s.source_files = 'CustomPodsForUpdate', 'CustomPodsForUpdate/CustomPodsForUpdate/**/*.swift','CustomPodsForUpdate/Classes/*.swift', 'CustomPodsForUpdate/*.swift', 'CustomPodsForUpdate/**/*.swift'#, 'CustomPodsForUpdate/**'
   
   # s.resource_bundles = {
   #   'CustomPodsForUpdate' => ['CustomPodsForUpdate/Assets/*.png']
