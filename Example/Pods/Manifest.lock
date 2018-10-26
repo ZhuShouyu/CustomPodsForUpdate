@@ -1,5 +1,5 @@
 PODS:
-  - CustomPodsForUpdate (0.1.4)
+  - CustomPodsForUpdate (0.1.10)
 
 DEPENDENCIES:
   - CustomPodsForUpdate (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CustomPodsForUpdate: c7498cd9fce55717647c02ddfa6d4f8888fa5fbe
+  CustomPodsForUpdate: 3e15fdcb9cf7f1747450ba6661f5ec6bd365fc3b
 
 PODFILE CHECKSUM: 18bb9ddf1d06e8f9cdbe28d5d418e235a467e398
 
