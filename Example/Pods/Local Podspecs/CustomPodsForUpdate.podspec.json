@@ -1,8 +1,8 @@
 {
   "name": "CustomPodsForUpdate",
-  "version": "0.1.0",
-  "summary": "A short description of CustomPodsForUpdate.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "0.1.4",
+  "summary": "Just a public pod lib test.",
+  "description": "A short description and summary of CustomPodsForUpdate.",
   "homepage": "https://github.com/zhushouyu/CustomPodsForUpdate",
   "license": {
     "type": "MIT",
@@ -12,11 +12,16 @@
     "zhushouyu": "zhushouyu@youzan.com"
   },
   "source": {
-    "git": "https://github.com/zhushouyu/CustomPodsForUpdate.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/ZhuShouyu/CustomPodsForUpdate.git",
+    "tag": "0.1.4"
   },
+  "swift_version": "4.2",
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "CustomPodsForUpdate/Classes/**/*"
+  "source_files": [
+    "CustomPodsForUpdate",
+    "CustomPodsForUpdate/*.swift",
+    "CustomPodsForUpdate/**/*.swift"
+  ]
 }
