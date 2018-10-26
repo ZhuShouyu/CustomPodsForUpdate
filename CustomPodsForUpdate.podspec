@@ -30,7 +30,7 @@ A short description and summary of CustomPodsForUpdate.
   s.swift_version = '4.2'
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'CustomPodsForUpdate/Classes/*.swift'
+  s.source_files = 'Resources/*.swift'
   
   # s.resource_bundles = {
   #   'CustomPodsForUpdate' => ['CustomPodsForUpdate/Assets/*.png']
