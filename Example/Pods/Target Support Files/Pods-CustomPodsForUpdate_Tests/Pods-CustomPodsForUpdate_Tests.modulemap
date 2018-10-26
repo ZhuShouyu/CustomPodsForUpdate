@@ -1,0 +1,6 @@
+framework module Pods_CustomPodsForUpdate_Tests {
+  umbrella header "Pods-CustomPodsForUpdate_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
