@@ -12,4 +12,7 @@ public class TestMM {
     public func helloWorld() {
         print("Hello This is CustomPodsForUpdate")
     }
+    public func nextFunc() {
+        print(#function)
+    }
 }
